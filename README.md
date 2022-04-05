@@ -19,7 +19,7 @@ fatalmusic@github:~$ ./welcome.sh
 fatalmusic@github
 -------------------------
 🏫 Computer Science student
-🔎 Main interests in & Cybersec
+🔎 Main interests in Cybersec
 🌱 Learning about Cyber Security and Network at the moment
 🌟 Main languages: Python, C, Javascript, PHP
 🏴‍☠️ Currently involved in CTF, TryHackMe and HackTheBox
