@@ -37,6 +37,11 @@ fatalmusic@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/cron
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   
-  < Work In Progress >
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   
   ![Badge](https://tryhackme-badges.s3.amazonaws.com/fatalmusic.png)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
