@@ -30,27 +30,6 @@ fatalmusic@github
 fatalmusic@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
-```
-[sudo] Password for fatalmusic:
-
-CATching bugs in code...
-
-       \`*-.    [me]
-        )  _`-.
-       .  : `. .
-       : _   '  \
-       ; *` _.   `*-._
-       `-.-'          `-.
-         ;       `       `.
-         :.       .        \
-         . \  .   :   .-'   .
-         '  `+.;  ;  '      :
-         :  '  |    ;       ;-.
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*'
-      `*-*   `*-*  `*-*'
-```
-
   <a href="https://instagram.com/stevesebastian7" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
