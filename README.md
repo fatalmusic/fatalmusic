@@ -1,7 +1,6 @@
 ```console
 fatalmusic@github:~$ ./welcome.sh
 ```
-![Badge](https://tryhackme-badges.s3.amazonaws.com/fatalmusic.png)
 
 ```
  _____________________________________
@@ -37,3 +36,5 @@ fatalmusic@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/cron
   <a href="https://medium.com/@stevesebastian7" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
+  
+  ![Badge](https://tryhackme-badges.s3.amazonaws.com/fatalmusic.png)
