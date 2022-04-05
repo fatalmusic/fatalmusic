@@ -1,6 +1,7 @@
 ```console
 fatalmusic@github:~$ ./welcome.sh
 ```
+<script src="https://tryhackme.com/badge/1026562"></script>
 
 ```
  _____________________________________
