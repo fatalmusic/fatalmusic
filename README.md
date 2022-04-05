@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fatalmusic/fatalmusic/blob/master/code.gif">
+  <img src="https://github.com/fatalmusic/fatalmusic/blob/main/code.gif">
 </p>
 
 - 👋 Hi, I’m @fatalmusic
