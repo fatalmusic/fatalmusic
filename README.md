@@ -18,9 +18,9 @@ fatalmusic@github:~$ ./welcome.sh
 ```
 fatalmusic@github
 -------------------------
-🏫 Computer Science student @Unesa
-🔎 Main interests in AI & Cybersec
-🌱 Learning about Cyber Security and Networking at the moment
+🏫 Computer Science student
+🔎 Main interests in & Cybersec
+🌱 Learning about Cyber Security and Network at the moment
 🌟 Main languages: Python, C, Javascript, PHP
 🏴‍☠️ Currently involved in CTF, TryHackMe and HackTheBox
 🚩 Interested in Network security and Web security
