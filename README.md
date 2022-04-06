@@ -18,7 +18,7 @@ fatalmusic@github:~$ ./welcome.sh
 ```
 fatalmusic@github
 -------------------------
-🏫 Computer Science student
+🏫 Computer Science
 🔎 Main interests in Cybersec
 🌱 Learning about Cyber Security and Network at the moment
 🌟 Main languages: Python, C, Javascript, PHP
