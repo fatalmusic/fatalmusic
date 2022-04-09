@@ -27,7 +27,7 @@ fatalmusic@github
 ```
 
 ```console
-fatalmusic@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+fatalmusic@github:~$ sudo echo "* * * * * /usr/local/bin/bugs" >> /tmp/crontab$$
 ```
 
   <a href="https://instagram.com/stevesebastian7" target="_blank">
