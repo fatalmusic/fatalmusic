@@ -4,7 +4,7 @@ fatalmusic@github:~$ ./welcome.sh
 
 ```
  _____________________________________
-< Welcome to my personal github page! >
+< Welcome to my personal github page >
  -------------------------------------
         \   ^__^
          \  (oo)\_______
