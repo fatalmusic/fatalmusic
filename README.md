@@ -21,7 +21,7 @@ fatalmusic@github
 🏫 Computer Science
 🔎 Main interests in Cybersec
 🌱 Learning about Cyber Security and Network at the moment
-🌟 Main languages: Python, C, Javascript, PHP
+🌟 Main languages: Python, Javascript, PHP
 🏴‍☠️ Currently involved in CTF, TryHackMe and HackTheBox
 🚩 Interested in Network security and Web security
 ```
